@@ -7,8 +7,8 @@ body:
     attributes:
       label: Package
       options:
-        - "@bitchat/protocol-core (JS)"
-        - "@bitchat/nostr (JS)"
+        - "@bitchat-sdk/protocol-core (JS)"
+        - "@bitchat-sdk/nostr (JS)"
         - "bitchat-protocol (Python)"
         - "bitchat-nostr (Python)"
         - "BitchatProtocol (Swift)"

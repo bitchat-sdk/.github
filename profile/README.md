@@ -10,7 +10,7 @@ BitChat is a decentralized, encrypted P2P chat network that runs over Bluetooth 
 
 | Platform | Package | Install |
 |----------|---------|---------|
-| JavaScript / Node.js | [`@bitchat/protocol-core`](https://github.com/bitchat-sdk/protocol-core-js) | `npm install @bitchat/protocol-core` |
+| JavaScript / Node.js | [`@bitchat-sdk/protocol-core`](https://github.com/bitchat-sdk/protocol-core-js) | `npm install @bitchat-sdk/protocol-core` |
 | Python | [`bitchat-protocol`](https://github.com/bitchat-sdk/protocol-core-py) | `pip install bitchat-protocol` |
 | Swift (iOS / macOS) | [`BitchatProtocol`](https://github.com/bitchat-sdk/BitchatProtocol) | SPM — see repo |
 | Android (Kotlin) | [`io.github.bitchat-sdk:protocol-core`](https://github.com/bitchat-sdk/android-sdk) | Gradle — see repo |
@@ -19,7 +19,7 @@ BitChat is a decentralized, encrypted P2P chat network that runs over Bluetooth 
 
 | Platform | Package | Install |
 |----------|---------|---------|
-| JavaScript / Node.js | [`@bitchat/nostr`](https://github.com/bitchat-sdk/nostr-js) | `npm install @bitchat/nostr` |
+| JavaScript / Node.js | [`@bitchat-sdk/nostr`](https://github.com/bitchat-sdk/nostr-js) | `npm install @bitchat-sdk/nostr` |
 | Python | [`bitchat-nostr`](https://github.com/bitchat-sdk/nostr-py) | `pip install bitchat-nostr` |
 | Swift (iOS / macOS) | [`BitchatNostr`](https://github.com/bitchat-sdk/BitchatNostr) | SPM — see repo |
 | Android (Kotlin) | [`io.github.bitchat-sdk:nostr`](https://github.com/bitchat-sdk/android-sdk) | Gradle — see repo |
